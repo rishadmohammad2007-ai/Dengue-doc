@@ -1,0 +1,10 @@
+# 🦟 AI-Powered Dengue Symptom Checker — Made in Bangladesh 🇧🇩
+
+This app uses AI to predict dengue risk from symptoms. Works offline. Sends SMS alerts. Built for rural clinics and schools.
+
+## 💻 How to Use
+1. Clone this repo:
+   
+```bash
+   git clone https://github.com/yourname/dengue-ai.git
+   
